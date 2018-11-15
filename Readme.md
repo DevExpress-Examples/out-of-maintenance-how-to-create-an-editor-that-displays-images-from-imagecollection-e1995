@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Form1.cs](./CS/ImageTextEdit/Form1.cs) (VB: [Form1.vb](./VB/ImageTextEdit/Form1.vb))**
+* [ImagTextEdit.cs](./CS/ImageTextEdit/ImagTextEdit.cs) (VB: [ImagTextEdit.vb](./VB/ImageTextEdit/ImagTextEdit.vb))
+<!-- default file list end -->
 # How to create an editor that displays images from ImageCollection
 
 
